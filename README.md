@@ -46,8 +46,8 @@ The dataset included sentences from :
 
 ### Results
 
-- **DistilBERT**: Achieved an accuracy of **72.9%** on the test set, with good generalization and moderate overfitting observed through training loss curves.
-- **Neural Network with CDE**: Achieved an accuracy of **57%** with slightly lower performance compared to DistilBERT, but showed more stability in precision and recall for certain LLMs.
+- **DistilBERT**: Achieved an accuracy of **74%** on the test set, with good generalization and moderate overfitting observed through training loss curves.
+- **Neural Network with CDE**: Achieved an accuracy of **56.45%** with slightly lower performance compared to DistilBERT, but showed more stability in precision and recall for certain LLMs.
 
 Both models demonstrated the ability to distinguish between LLMs based on their text generation patterns, but future work may improve on these models with additional architectural improvements or ensemble methods.
 
