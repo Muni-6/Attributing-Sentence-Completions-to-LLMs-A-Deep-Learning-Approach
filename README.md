@@ -60,7 +60,6 @@ To run the code, install the following dependencies:
 - Python 3.7+
 - PyTorch
 - Hugging Face Transformers
-- TensorFlow/Keras (for CDE)
 - scikit-learn
 - pandas
 
