@@ -70,6 +70,4 @@ To run the code, install the following dependencies:
 2. **Model Training**: Run the training script to train either the DistilBERT or Neural Network model on your dataset. Use the `.ipynb` notebook for running training and evaluating model performance.
 
 
-### License
 
-This project is licensed under the MIT License.
