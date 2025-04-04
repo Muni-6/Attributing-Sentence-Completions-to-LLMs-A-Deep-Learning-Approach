@@ -68,5 +68,6 @@ To run the code, install the following dependencies:
 1. **Data Preparation**: Prepare your dataset in a CSV file with columns: `xi`, `xj`, and `model`. This can be done by running the provided `generate_xj.py` script.
 2. **Model Training**: Run the training script to train either the DistilBERT or Neural Network model on your dataset. Use the `.ipynb` notebook for running training and evaluating model performance.
 
-
+Authors: SriHita Veleti
+         Muni Bhavana Konidala
 
